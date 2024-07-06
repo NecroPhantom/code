@@ -1,2 +1,2 @@
 # code
-ransomeware source code!
+ransomeware injection script!
